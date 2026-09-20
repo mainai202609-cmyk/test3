@@ -25,8 +25,8 @@ const HTML_LANG_MAP = { zh: 'zh-Hant', en: 'en', ja: 'ja' };
 
 /* ---------------- 網站基本資訊（跟語言相關的部分） ---------------- */
 const SITE = {
-  name: { zh: '你的名字', en: 'HSU CHIAONING', ja: 'シュ　チャオニン' },
-  email: '24ad0121@jec.ac.jp', // 信箱本身不需要翻譯，直接改成你的
+  name: { zh: '你的名字', en: 'Your name', ja: 'name' },
+  email: 'Youremail@gmail.com', // 信箱本身不需要翻譯，直接改成你的
 };
 
 /* ---------------- 作品分類標籤 ---------------- */
